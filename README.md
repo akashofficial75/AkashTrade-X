@@ -1,20 +1,31 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+📈 Trading Dashboard Web App (AkashTrade X)
 
-# Run and deploy your AI Studio app
+A modern, responsive and interactive trading dashboard built for real-time market analysis and smooth user experience. This project is designed with a futuristic UI, smooth animations, and professional trading features to simulate a real trading environment.
 
-This contains everything you need to run your app locally.
+🚀 Features
+Live market-style interface
+Multiple timeframe support (1M, 5M, 15M, 1H, etc.)
+Auto-updating candle system
+Real-time UI interactions
+Clean and modern trading layout
+Smooth performance with responsive design
+Beginner-friendly yet powerful interface
+🎯 Purpose
 
-View your app in AI Studio: https://ai.studio/apps/74042130-e1b3-484a-ab01-04ad5762f255
+This project is created for learning, demo trading experience, and UI/UX practice in financial dashboard design.
 
-## Run Locally
+🛠️ Tech Stack
 
-**Prerequisites:**  Node.js
+HTML • CSS • JavaScript • 
 
+👨‍💻 Developed By
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+AkashProg
+
+🔗 Live Demo
+
+👉 :    https://akashtradex.netlify.app/
+
+📌 Note
+
+This is not real financial trading software. It is only a simulation for educational and UI/UX purposes.
