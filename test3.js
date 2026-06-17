@@ -1,0 +1,1 @@
+fetch('https://query1.finance.yahoo.com/v8/finance/chart/GC=F?interval=1d&range=2y', { headers: { 'User-Agent': 'Mozilla/5.0' } }).then(r=>r.json()).then(r=>console.log(JSON.stringify(r))).catch(console.error);
