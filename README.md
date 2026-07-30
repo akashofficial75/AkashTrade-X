@@ -29,3 +29,5 @@ AkashProg
 📌 Note
 
 This is not real financial trading software. It is only a simulation for educational and UI/UX purposes.
+ Adsterra
+ 
